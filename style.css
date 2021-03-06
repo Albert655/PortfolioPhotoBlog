@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+#firstpic {
+    width: 450px;
+}
+
+#secondpic {
+    width: 450px;
+    height: 450px;
+}
